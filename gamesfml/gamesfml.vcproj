@@ -176,12 +176,44 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
+			<File
+				RelativePath=".\Bulet.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Enemy.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Entity.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\MovingPlatform.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\Player.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\Bulet.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Enemy.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Entity.h"
+				>
+			</File>
 			<File
 				RelativePath=".\level.h"
 				>
@@ -192,6 +224,14 @@
 			</File>
 			<File
 				RelativePath=".\mission.h"
+				>
+			</File>
+			<File
+				RelativePath=".\MovingPlatform.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Player.h"
 				>
 			</File>
 			<File
